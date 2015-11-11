@@ -1,0 +1,24 @@
+{
+  "name": "smelter",
+  "version": "1.0.0",
+  "description": "Merges configurations together with environment overrides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/smelter.git"
+  },
+  "keywords": [
+    "Config",
+    "Merge",
+    "Smelt"
+  ],
+  "author": "Cameron Rollheiser <icirellik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/smelter/issues"
+  },
+  "homepage": "https://github.com/icirellik/smelter#readme"
+}
